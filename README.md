@@ -1,1 +1,1 @@
-# placement_training
+Zoho Mini Applications
